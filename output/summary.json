@@ -1,0 +1,13 @@
+{
+  "input": "data\\raw\\orders_sample.csv",
+  "filters": {
+    "start": "2025-10-01",
+    "end": "2025-10-03",
+    "country": "ES"
+  },
+  "kpis": {
+    "num_orders": 4,
+    "total_revenue": 1383.0,
+    "avg_order_value": 345.75
+  }
+}
